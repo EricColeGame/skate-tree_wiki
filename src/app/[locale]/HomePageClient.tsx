@@ -18,7 +18,7 @@ const icons: LucideIcon[] = [BookOpen, Shield, Compass, Boxes, Flame, Code2, Swo
 
 
 export default function HomePageClient({ home, locale, articles, recentArticles }: { home: Home; locale: string; articles: ContentItem[]; recentArticles: ContentItem[] }) {
-  const YOUTUBE_VIDEO_ID = siteConfig.heroVideoId || "";
+  const YOUTUBE_VIDEO_ID = "A04-FTopkT8"; // Skate Tree (Roblox) gameplay showcase
 
   return (
     <div className="min-w-0 space-y-16">
