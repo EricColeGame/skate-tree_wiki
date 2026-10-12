@@ -1,1 +1,521 @@
-{}
+{
+  "site": {
+    "name": "Skate Tree Wiki",
+    "shortName": "Skate Tree",
+    "tagline": "Guides, Codes, Tricks & Skate-Tipps",
+    "description": "Das Skate Tree Wiki bietet vollständige Guides, Skate-Tipps, Gameplay-Informationen, Codes und nützliche Ressourcen, die Spielern helfen, die Welt von Skate Tree zu erkunden.",
+    "legalNotice": "Inoffizielles Fan-Wiki. Von Spielern für Spieler."
+  },
+  "nav": {
+    "home": "Start",
+    "menu": "Menü",
+    "toggleTheme": "Theme wechseln",
+    "guide": "Guide",
+    "mechanics": "Mechaniken",
+    "controls": "Steuerung",
+    "items": "Gegenstände",
+    "maps": "Karten",
+    "codes": "Codes",
+    "community": "Community"
+  },
+  "home": {
+    "meta": {
+      "title": "Skate Tree Wiki - Codes, Guides & Skate-Tipps",
+      "description": "Das Skate Tree Wiki bietet vollständige Guides, Skate-Tipps, Gameplay-Informationen, Codes und nützliche Ressourcen, die Spielern helfen, die Welt von Skate Tree zu erkunden."
+    },
+    "hero": {
+      "eyebrow": "Entspanntes Skate-Abenteuer",
+      "title": "Skate Tree Wiki",
+      "description": "Skate Tree ist ein kreatives Skate-Abenteuerspiel, in dem Spieler Umgebungen erkunden, Skate-Mechaniken meistern und einzigartige Gameplay-Erlebnisse entdecken.",
+      "stats": [
+        "Skate-Areale",
+        "Tricks & Combos",
+        "Aktive Codes",
+        "Tägliche Updates"
+      ],
+      "primaryCta": "Anfänger-Guide",
+      "secondaryCta": "Trick-Guide",
+      "tertiaryCta": "Aktive Codes",
+      "videoLabel": "Offizielle Medien"
+    },
+    "updates": {
+      "title": "Neueste Updates",
+      "browse": "Alle Guides ansehen",
+      "viewAll": "Alle ansehen"
+    },
+    "start": {
+      "eyebrow": "Hier starten",
+      "title": "Deine Skate-Tree-Reise",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Anfänger-Guide",
+          "description": "Lerne die Steuerung, baue Momentum auf und lande deine ersten Tricks und Grinds mit einer Schritt-für-Schritt-Routine für die erste Session."
+        },
+        {
+          "number": "2",
+          "title": "Schnellstes Leveln",
+          "description": "Gib Skillpunkte clever aus, schließe Herausforderungen für die größten XP-Belohnungen ab und schalte neue Tricks schneller frei."
+        },
+        {
+          "number": "3",
+          "title": "Tricks & Combos",
+          "description": "Meistere Flips, Grinds, Manuals und Spins und verkette sie zu Linien mit hoher Punktzahl am ganzen Baum."
+        },
+        {
+          "number": "4",
+          "title": "Alle Codes",
+          "description": "Finde funktionierende Skate-Tree-Codes, löse sie in unter einer Minute ein und erkenne abgelaufene oder gefälschte, bevor du Zeit verlierst."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Beliebte Seiten",
+      "title": "Angesagte Skate-Tree-Guides",
+      "quickLinks": [
+        "Anfänger-Guide",
+        "Steuerung & Tastenbelegung",
+        "Trick-Guide",
+        "Alle Codes"
+      ],
+      "cards": [
+        {
+          "badge": "Anfänger",
+          "title": "Anfänger-Guide",
+          "description": "Steuerung, Momentum und eine Routine für die erste Session, die frühe Stürze verhindert.",
+          "href": "/guide/skate-tree-beginner-guide"
+        },
+        {
+          "badge": "Aktualisiert",
+          "title": "Steuerung & Tastenbelegung",
+          "description": "Standardbelegung für PC, Controller und Mobil mit Tipps zum Umbelegen.",
+          "href": "/controls/skate-tree-keybinds"
+        },
+        {
+          "badge": "Aktualisiert",
+          "title": "Aktive Codes",
+          "description": "Woher funktionierende Skate-Tree-Codes kommen und wie du sie schnell einlöst.",
+          "href": "/codes/skate-tree-codes"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Trick-Guide",
+          "description": "Wie Flips, Grinds, Manuals und Airs punkten, plus Übungen zum Landen.",
+          "href": "/mechanics/skate-tree-tricks"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Orte & Locations",
+          "description": "Ramps, Rails und Übungsflächen und wie du rotierende Spawns bestätigst.",
+          "href": "/maps/skate-tree-locations"
+        },
+        {
+          "badge": "Neu",
+          "title": "Fortschritts-Guide",
+          "description": "Quellen für Skillpunkte und die Zweig-Priorität, die einen verschwendeten Build vermeidet.",
+          "href": "/mechanics/skate-tree-progression"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Spot-Battles-Guide",
+          "description": "Regeln, Wertung und Strategien für den kompetitiven Herausforderungsmodus.",
+          "href": "/mechanics/skate-tree-challenges"
+        },
+        {
+          "badge": "Neu",
+          "title": "Updates & News",
+          "description": "Patches, neue Ausrüstung und Balance-Änderungen in einer laufenden Liste.",
+          "href": "/community/skate-tree-updates"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Was ist Skate Tree?",
+      "paragraphs": [
+        "Skate Tree ist ein Roblox-Skate-Spiel, das auf Momentum statt auf einem flachen Skatepark aufbaut. Du fährst einen hoch aufragenden, verzweigten Baum hinauf, liest Rinde, Äste und Wurzeln, um Linien zu finden, springst von Ramps und grindest Rails durch das Blätterdach. Jeder Trick belohnt die Geschwindigkeit und den Winkel, mit denen du ihn eingeleitet hast, also zählen Flow und saubere Landungen weit mehr als wildes Tastendrücken.",
+        "Fortschritt verwandelt Zeit auf dem Board in dauerhafte Freischaltungen. Ein verzweigter Skilltree schaltet neue Tricks, Werte und Kartenbereiche frei, während erste Landungen und Herausforderungen die meisten Punkte einbringen. Zwischen den Runs kannst du Codes für kostenlose Währung und Kosmetik einlösen und deinen Fahrer mit Decks, Rollen, Spuren und Outfits gestalten. Das Skate Tree Wiki deckt jedes System mit praktischen Guides, Tastenbelegungen und Spot-für-Spot-Karten ab."
+      ],
+      "stats": [
+        {
+          "label": "Plattform",
+          "value": "Roblox"
+        },
+        {
+          "label": "Genre",
+          "value": "Skateboarding"
+        },
+        {
+          "label": "Schauplatz",
+          "value": "Riesenbaum"
+        },
+        {
+          "label": "Kernfähigkeit",
+          "value": "Momentum"
+        },
+        {
+          "label": "Fortschritt",
+          "value": "Skilltree"
+        },
+        {
+          "label": "Trick-Arten",
+          "value": "Flips, Grinds, Manuals"
+        },
+        {
+          "label": "Modi",
+          "value": "Free Skate & Herausforderungen"
+        }
+      ],
+      "cta": "Alle Guides erkunden"
+    },
+    "explore": {
+      "title": "Skate Tree Wiki erkunden",
+      "description": "Das Skate Tree Wiki teilt das Spiel in acht praktische Module, vom ersten Ollie bis zu späten Skilltree-Builds, damit du Steuerung, Codes, Tricks, Spots und Fortschritts-Tipps an einem Ort findest.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Skate Tree Anfänger-Guide",
+          "description": "Bring neue Spieler mit dem Wesentlichen ins Rollen: Steuerung, Bewegungsgrundlagen, eine Routine für die erste Session und die Anfängerfehler, die deine erste Stunde verschwenden.",
+          "href": "/guide/skate-tree-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Schiebe und rolle geradeaus, um zuerst konstante Geschwindigkeit aufzubauen"
+            },
+            {
+              "label": "2",
+              "detail": "Übe Sprünge und Ollies auf flachem Boden, bis fünf hintereinander sauber landen"
+            },
+            {
+              "label": "3",
+              "detail": "Geh vor der Kante in die Hocke, löse am Rand und lande mit geradem Board"
+            },
+            {
+              "label": "4",
+              "detail": "Nähere dich Rails fast parallel und halte den Grind, ohne zu stark zu korrigieren"
+            },
+            {
+              "label": "5",
+              "detail": "Richte dich nach einem Sturz schnell wieder auf und übe pro Run einen neuen Trick statt zehn"
+            },
+            {
+              "label": "6",
+              "detail": "Gib frühe Belohnungen für Kernwerte und Kontrolle aus, nicht für auffällige Kosmetik"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Skate Tree Steuerung & Tricks",
+          "description": "Schnellreferenz-Tastenbelegungen für PC, Controller und Mobil, inklusive Bewegung, Sprüngen, Grabs, Grinds und der Kamerasteuerung hinter jeder sauberen Linie.",
+          "href": "/controls/skate-tree-keybinds",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "W / Up",
+              "detail": "Schieben und beschleunigen; tippe im Rhythmus statt zu halten, um die Kontrolle zu behalten"
+            },
+            {
+              "label": "Space",
+              "detail": "Ollie und Sprung; halte länger für mehr Pop an Ramps"
+            },
+            {
+              "label": "J K L",
+              "detail": "Flip-Tricks; jede Taste entspricht einer Trick-Familie auf dem Trick-Rad"
+            },
+            {
+              "label": "E / F",
+              "detail": "Grind und Lock-on nahe Rails und Kanten; der Winkel schlägt das Timing"
+            },
+            {
+              "label": "Shift",
+              "detail": "Grab-Tricks; halte und gib eine Richtung dazu, um die Grab-Art zu ändern"
+            },
+            {
+              "label": "R",
+              "detail": "Sturz und Reset; deine Notfalltaste für sofortiges Neupositionieren"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Skate Tree Codes",
+          "description": "Verfolge, woher funktionierende Skate-Tree-Codes kommen, was sie geben und wie du sie Schritt für Schritt einlöst, bevor sie ablaufen.",
+          "href": "/codes/skate-tree-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Münzen",
+              "detail": "Im Spiel erhaltene Währung direkt auf dein Konto, überspringt das frühe Grinden"
+            },
+            {
+              "label": "Decks",
+              "detail": "Boards, Skins, Spuren und Outfits, damit dein Setup auffällt"
+            },
+            {
+              "label": "Boosts",
+              "detail": "Temporäre XP- oder Geschwindigkeits-Multiplikatoren für ein begrenztes Zeitfenster"
+            },
+            {
+              "label": "Events",
+              "detail": "Event-Items und Abzeichen auf Zeit, die nach dem Event selten zurückkehren"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Skate Tree Trick-Guide",
+          "description": "Verstehe, wie Flips, Grinds, Manuals und Airs wirklich punkten, plus die Übungen, die wackelige Landungen in Muskelgedächtnis verwandeln.",
+          "href": "/mechanics/skate-tree-tricks",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Flips",
+              "detail": "Flatground-Trick-Familie, die deine Punktebasis schnell füllt"
+            },
+            {
+              "label": "Grinds",
+              "detail": "Kontakt mit Rail oder Kante, der einen Combo am Leben hält, solange er dauert"
+            },
+            {
+              "label": "Manuals",
+              "detail": "Balance-Bewegungen, die Tricks verbinden und eine Linie verlängern"
+            },
+            {
+              "label": "Grabs",
+              "detail": "Air-Tricks, die vertikale Routen und Multiplikatoren öffnen"
+            },
+            {
+              "label": "Spins",
+              "detail": "Rotations-Tricks, entschieden von der Drehgeschwindigkeit, nicht der Sprunghöhe"
+            },
+            {
+              "label": "Combos",
+              "detail": "Verkettete Tricks, die den Wert multiplizieren, bevor die Kette abfällt"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Skate Tree Spots-Guide",
+          "description": "Finde die Ramps, Rails und Übungsflächen, die deine Zeit wert sind, und lerne, rotierende oder Event-Spawns zu bestätigen, bevor du dich festlegst.",
+          "href": "/maps/skate-tree-locations",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Ramps",
+              "detail": "Absprungpunkte, die gespeicherte Geschwindigkeit in Höhe und Flugzeit umwandeln"
+            },
+            {
+              "label": "Rails",
+              "detail": "Grind-Linien, die die Routen mit der höchsten Punktzahl an den meisten Spots tragen"
+            },
+            {
+              "label": "Plätze",
+              "detail": "Offene flache Flächen zum Üben von Flatground-Tricks und Combos"
+            },
+            {
+              "label": "Dächer",
+              "detail": "Hohe Kanten und Treppenhäuser, die vertikale Routen und Drops verstecken"
+            },
+            {
+              "label": "Rotierend",
+              "detail": "Spawns, die pro Session zwischen einer kurzen Liste von Spots wechseln"
+            },
+            {
+              "label": "Events",
+              "detail": "Spawns auf Zeit, die nur erscheinen, solange ein Event läuft"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Skate Tree Spot-Battles-Guide",
+          "description": "Lerne den kompetitiven Spot-Battles-Modus kennen, von Regeln und Wertung bis zu den Strategien, die Duelle gewinnen.",
+          "href": "/mechanics/skate-tree-challenges",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Erkunde zuerst den Spot und notiere, welche Oberflächen Geschwindigkeit halten"
+            },
+            {
+              "label": "2",
+              "detail": "Eröffne mit einfachen Tricks, um früh in der Kette ein breiteres Eingabefenster zu kaufen"
+            },
+            {
+              "label": "3",
+              "detail": "Sammle Geschwindigkeit auf Abfahrten und gib sie am Gap mit der höchsten Punktzahl aus"
+            },
+            {
+              "label": "4",
+              "detail": "Verlasse Grinds kurz vor dem Ende der Oberfläche, um den Multiplikator sauber zu sichern"
+            },
+            {
+              "label": "5",
+              "detail": "Bleib in Bewegung, denn der Combo-Wert verfällt, während du stehst"
+            },
+            {
+              "label": "6",
+              "detail": "Heb dir deine wertvollste Linie für den letzten Versuch auf, um die Lücke zu schließen"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Skate Tree Fortschritts-Guide",
+          "description": "Sieh, welche Skilltree-Zweige du zuerst finanzierst, wie XP wirklich anfällt und welche Freischaltreihenfolge einen verschwendeten frühen Build vermeidet.",
+          "href": "/mechanics/skate-tree-progression",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Kernwerte: Balance, Geschwindigkeit, Pop und Ausdauer verbessern jeden Trick, den du schon kennst"
+            },
+            {
+              "label": "A",
+              "detail": "Flatground-Zweig: Ollies, Kickflips und Shove-its, deine Punktebasis"
+            },
+            {
+              "label": "B",
+              "detail": "Grind-Zweig: 50-50s und Boardslides, die Linien mit der höchsten Punktzahl"
+            },
+            {
+              "label": "C",
+              "detail": "Grab- und Air-Zweig: Ramps und Spins, sobald Combos konstant sitzen"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Skate Tree Updates & News",
+          "description": "Bleib bei Patches, neuen Features, Balance-Änderungen und Ankündigungen der Entwickler auf dem Laufenden, damit Rückkehrer keinen Wandel verpassen.",
+          "href": "/community/skate-tree-updates",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Patches",
+              "detail": "Neue Builds und Fixes, die Menüs, Spawns und Timing ändern können"
+            },
+            {
+              "label": "Neue Ausrüstung",
+              "detail": "Frische Decks, Rollen und Kosmetik für Shop und Events"
+            },
+            {
+              "label": "Balance",
+              "detail": "Anpassungen an Trick-Werten, Skillknoten und Fortschrittstempo"
+            },
+            {
+              "label": "Events",
+              "detail": "Modi und Belohnungen auf Zeit mit eigenen Drop-Fenstern"
+            },
+            {
+              "label": "Codes",
+              "detail": "Neue Promo-Strings, meist vor Ablauf angekündigt"
+            },
+            {
+              "label": "Meta",
+              "detail": "Von der Community entdeckte Verschiebungen bei den stärksten Trick-Linien"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "description": "Schnelle Antworten auf die häufigsten Fragen zu Skate Tree.",
+      "items": [
+        {
+          "question": "Was ist Skate Tree?",
+          "answer": "Skate Tree ist ein Roblox-Skate-Spiel, das auf Momentum auf einem hoch aufragenden, verzweigten Baum aufbaut. Du schiebst, carvst und springst durch das Blätterdach und landest Flips, Grinds und Manuals für Punkte. Es gibt keine Rennen oder Klassen zur Auswahl; dein Fortschritt kommt aus einem verzweigten Skilltree, der neue Tricks, Werte und Kartenbereiche freischaltet."
+        },
+        {
+          "question": "Ist Skate Tree kostenlos?",
+          "answer": "Ja. Skate Tree ist auf Roblox kostenlos, und Codes geben kostenlose Währung, Kosmetik und Boosts ohne Kauf. Kosmetik ist rein optisch, also ändert nichts hinter einem Code, wie sich dein Board fährt."
+        },
+        {
+          "question": "Wie werde ich besser in Skate-Tree-Tricks?",
+          "answer": "Behandle Momentum wie Währung. Sammle Geschwindigkeit auf Abfahrten, richte dich vor dem Trick aus und füge eine Eingabe nach der anderen hinzu, bis jede Bewegung langweilig sitzt. Verlasse Skate-Tree-Grinds kurz vor dem Ende der Oberfläche und bleib in Bewegung, damit deine Combo nicht verfällt."
+        },
+        {
+          "question": "Wo finde ich funktionierende Skate-Tree-Codes?",
+          "answer": "Die neuesten Skate-Tree-Codes erscheinen meist zuerst auf der offiziellen Spielseite, im Entwickler-Discord und in In-Game-News-Pop-ups. Community-Wikis sind nützliche Archive, hinken aber bei Ablaufdaten hinterher, also löse einen Code am selben Tag ein, an dem du ihn findest."
+        },
+        {
+          "question": "Welchen Skilltree-Zweig sollte ich zuerst ausbauen?",
+          "answer": "Finanziere in Skate Tree zuerst die Kernwerte vor jedem Trick-Zweig und geh dann tief in Flatground-Tricks, weil sie die meisten Combos tragen. Nimm als Nächstes den Grind-Zweig dazu und lass Grab-, Air- und Kosmetik-Knoten, bis deine Linien konstant sitzen."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Bereit, Skate Tree zu meistern?",
+      "description": "Vom ersten Ollie bis zu fortgeschrittenen Trick-Linien deckt dich unser Community-Wiki mit kostenlosen, aktuellen Skate-Tree-Guides ab.",
+      "primary": "Anfänger-Guide lesen",
+      "secondary": "Auf Roblox spielen"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Skate Tree Guides",
+    "overviewDescription": "Schritt-für-Schritt-Guides zu Skate Tree, die Grundlagen, Steuerung und Tipps abdecken, damit neue Fahrer schnell ins Rollen kommen."
+  },
+  "mechanics": {
+    "overviewTitle": "Skate Tree Mechaniken",
+    "overviewDescription": "Lerne, wie Gameplay, Tricks, Skills und Fortschrittssysteme von Skate Tree zusammenspielen."
+  },
+  "controls": {
+    "overviewTitle": "Skate Tree Steuerung",
+    "overviewDescription": "Alle Steuerungen und Tastenbelegungen von Skate Tree für Bewegung und Tricks auf jeder Plattform."
+  },
+  "items": {
+    "overviewTitle": "Skate Tree Gegenstände",
+    "overviewDescription": "Entdecke Skateboards, Decks, Rollen, Kosmetik und Anpassungsoptionen von Skate Tree."
+  },
+  "maps": {
+    "overviewTitle": "Skate Tree Karten",
+    "overviewDescription": "Erkunde jede Karte, jeden Skatepark, jeden Ort und jedes versteckte Geheimnis von Skate Tree."
+  },
+  "codes": {
+    "overviewTitle": "Skate Tree Codes",
+    "overviewDescription": "Funktionierende Skate-Tree-Codes und wie du sie einlöst, bevor sie ablaufen."
+  },
+  "community": {
+    "overviewTitle": "Skate Tree Community",
+    "overviewDescription": "Skate-Tree-Reddit, Updates, Release-Datum, Trailer und YouTube-Highlights aus der Community."
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "activeCodes": "Aktive Codes",
+    "updated": "Aktualisiert",
+    "viewAllCodes": "Alle Codes ansehen",
+    "playOnRoblox": "Auf Roblox spielen",
+    "inThisSection": "In diesem Abschnitt",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Brauchst du Hilfe?",
+    "relatedReading": "Verwandte Lektüre",
+    "relatedGuides": "Verwandte Guides",
+    "readMore": "Mehr lesen",
+    "officialMedia": "Offizielle Medien",
+    "home": "Start",
+    "noGuidesAvailable": "Noch keine Guides verfügbar. Schau bald wieder vorbei!"
+  },
+  "footer": {
+    "aboutTitle": "Skate Tree Wiki",
+    "about": "Das Skate Tree Wiki ist ein unabhängiger, von Fans gebauter Guide-Hub zu Skate-Mechaniken, Tricks, Karten, Gegenständen, Codes und wichtigem Spielwissen für neue und erfahrene Spieler.",
+    "quickLinks": "Schnellzugriff",
+    "guides": "Guides",
+    "legal": "Rechtliches",
+    "copyright": "2026 Skate Tree Wiki. Nicht mit den Skate-Tree-Entwicklern oder Roblox verbunden.",
+    "description": "Kreatives Skate-Abenteuerspiel auf Roblox. Erkunde Umgebungen und meistere die Skate-Mechaniken.",
+    "playGame": "Skate Tree auf Roblox spielen",
+    "officialDiscord": "Offizieller Discord",
+    "officialYoutube": "Offizielles YouTube",
+    "vvBuilder": "Skate Tree Builder (Trick-Planer)",
+    "beginnerGuide": "Anfänger-Guide",
+    "mechanicsGuide": "Mechaniken & Tricks",
+    "mapsGuide": "Karten & Spots",
+    "controlsGuide": "Steuerungs-Guide",
+    "privacyPolicy": "Datenschutzerklärung",
+    "termsOfService": "Nutzungsbedingungen"
+  }
+}
