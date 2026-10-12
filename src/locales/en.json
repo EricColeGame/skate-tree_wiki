@@ -43,260 +43,372 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the controls, build momentum, and land your first tricks and grinds with a step-by-step first-session routine."
         },
         {
           "number": "2",
           "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "description": "Spend skill points the smart way, clear challenges for the biggest XP payouts, and unlock new tricks faster."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Tricks & Combos",
+          "description": "Master flips, grinds, manuals, and spins, then chain them into high-scoring lines across the tree."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Skate Tree."
+          "title": "All Codes",
+          "description": "Find working Skate Tree codes, redeem them in under a minute, and spot expired or fake ones before you waste time."
         }
       ]
     },
     "popular": {
       "eyebrow": "Popular Pages",
-      "title": "Trending Now",
+      "title": "Trending Skate Tree Guides",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Controls & Keybinds",
+        "Tricks Guide",
+        "All Codes"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Controls, momentum, and a first-session routine that stops the early bails.",
+          "href": "/guide/skate-tree-beginner-guide"
+        },
+        {
+          "badge": "Updated",
+          "title": "Controls & Keybinds",
+          "description": "Default PC, controller, and mobile bindings with remapping tips.",
+          "href": "/controls/skate-tree-keybinds"
         },
         {
           "badge": "Updated",
           "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
-        },
-        {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "description": "Where working Skate Tree codes come from and how to redeem them fast.",
+          "href": "/codes/skate-tree-codes"
         },
         {
           "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
-        },
-        {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "title": "Tricks Guide",
+          "description": "How flips, grinds, manuals, and airs score, plus drills to land them.",
+          "href": "/mechanics/skate-tree-tricks"
         },
         {
           "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "title": "Spots & Locations",
+          "description": "Ramps, rails, and practice areas, plus how to confirm rotating spawns.",
+          "href": "/maps/skate-tree-locations"
+        },
+        {
+          "badge": "New",
+          "title": "Progression Guide",
+          "description": "Skill point sources and the branch priority that avoids a wasted build.",
+          "href": "/mechanics/skate-tree-progression"
         },
         {
           "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "title": "Spot Battles Guide",
+          "description": "Rules, scoring, and strategies for the competitive challenge mode.",
+          "href": "/mechanics/skate-tree-challenges"
         },
         {
           "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Updates & News",
+          "description": "Patches, new gear, and balance changes in one running list.",
+          "href": "/community/skate-tree-updates"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Skate Tree?",
       "paragraphs": [
-        "Skate Tree is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Skate Tree is a Roblox skateboarding game built around momentum rather than a flat skatepark. You ride a towering, branching tree, reading bark, branches, and roots to find lines, launch off ramps, and grind rails through the canopy. Every trick is a reward for the speed and angle you carried into it, so flow and clean landings matter far more than mashing inputs.",
+        "Progress converts time on the board into permanent unlocks. A branching skill tree gates new tricks, stats, and map areas, while first-time landings and challenges pay out the most points. Between runs you can redeem codes for free currency and cosmetics, then style your rider with decks, wheels, trails, and outfits. Skate Tree Wiki covers every system with practical guides, keybind tables, and spot-by-spot maps."
       ],
       "stats": [
-        {
-          "label": "Developer",
-          "value": "Midnight Continent"
-        },
         {
           "label": "Platform",
           "value": "Roblox"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Skateboarding"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Setting",
+          "value": "Giant Tree"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Core Skill",
+          "value": "Momentum"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Progression",
+          "value": "Skill Tree"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Trick Types",
+          "value": "Flips, Grinds, Manuals"
+        },
+        {
+          "label": "Modes",
+          "value": "Free Skate & Challenges"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Skate Tree Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Skate Tree Wiki breaks the game into eight practical modules, from your first ollie to late-game skill tree builds, so you can find controls, codes, tricks, spots, and progression tips in one place.",
       "modules": [
         {
           "order": 1,
-          "name": "Skate Tree Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/skate-tree-codes",
-          "displayType": "code-box",
+          "name": "Skate Tree Beginner Guide",
+          "description": "Get new players rolling with the essentials: controls, movement basics, a first-session routine, and the beginner mistakes that waste your first hour.",
+          "href": "/guide/skate-tree-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Push and roll in a straight line to build consistent speed before anything else"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Practice jumps and ollies on flat ground until five in a row land clean"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Crouch before the lip, release at the edge, and land with the board straight"
+            },
+            {
+              "label": "4",
+              "detail": "Approach rails nearly parallel and hold the grind without over-correcting"
+            },
+            {
+              "label": "5",
+              "detail": "Reset fast after a bail and drill one new trick per run instead of ten"
+            },
+            {
+              "label": "6",
+              "detail": "Spend early rewards on core stats and control, not flashy cosmetics"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/skate-tree-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Skate Tree Controls & Tricks",
+          "description": "Quick-reference keybinds for PC, controller, and mobile, covering movement, jumps, grabs, grinds, and the camera controls behind every clean line.",
+          "href": "/controls/skate-tree-keybinds",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "W / Up",
+              "detail": "Push and accelerate, tap in rhythm instead of holding to keep control"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Space",
+              "detail": "Ollie and jump, hold longer for a higher pop off ramps"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "J K L",
+              "detail": "Flip tricks, each key maps to a trick family on the trick wheel"
+            },
+            {
+              "label": "E / F",
+              "detail": "Grind and lock on near rails and ledges, angle beats timing"
+            },
+            {
+              "label": "Shift",
+              "detail": "Grab tricks, hold plus a direction to change the grab type"
+            },
+            {
+              "label": "R",
+              "detail": "Bail and reset, your emergency key to reposition instantly"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/skate-tree-tier-list",
-          "displayType": "tier-grid",
+          "name": "Skate Tree Codes",
+          "description": "Track where working Skate Tree codes come from, what they hand out, and how to redeem them step by step before they expire.",
+          "href": "/codes/skate-tree-codes",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Coins",
+              "detail": "In-game currency added straight to your balance, skips the early grind"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Decks",
+              "detail": "Board decks, skins, trails, and outfits to make your setup stand out"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Boosts",
+              "detail": "Temporary XP or speed multipliers for a limited window"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Events",
+              "detail": "Limited-time event items and badges that rarely return after the event"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/skate-tree-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Skate Tree Tricks Guide",
+          "description": "Understand how flips, grinds, manuals, and airs actually score, plus the drills that turn shaky landings into muscle memory.",
+          "href": "/mechanics/skate-tree-tricks",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Flips",
+              "detail": "Flatground trick family that fills your scoring base fast"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Grinds",
+              "detail": "Rail and ledge contact that keeps a combo alive while it lasts"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Manuals",
+              "detail": "Balance moves that bridge tricks and extend a line"
+            },
+            {
+              "label": "Grabs",
+              "detail": "Air tricks that open vertical routes and multipliers"
+            },
+            {
+              "label": "Spins",
+              "detail": "Rotation tricks decided by rotation speed, not jump height"
+            },
+            {
+              "label": "Combos",
+              "detail": "Chained tricks that multiply value before chain decay sets in"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/skate-tree-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Skate Tree Spots Guide",
+          "description": "Find the ramps, rails, and practice areas worth your time, and learn how to confirm rotating or event spawns before you commit.",
+          "href": "/maps/skate-tree-locations",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Ramps",
+              "detail": "Launch points that convert banked speed into height and air time"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Rails",
+              "detail": "Grind lines that anchor the highest-scoring routes in most spots"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Plazas",
+              "detail": "Open flat areas for practicing flatground tricks and combos"
+            },
+            {
+              "label": "Rooftops",
+              "detail": "High ledges and stairwells that hide vertical routes and drops"
+            },
+            {
+              "label": "Rotating",
+              "detail": "Spawns that shift between a shortlist of spots each session"
+            },
+            {
+              "label": "Events",
+              "detail": "Limited-time spawns that only appear while an event is live"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/skate-tree-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Skate Tree Spot Battles Guide",
+          "description": "Learn the competitive Spot Battles mode, from the rules and scoring to the strategies that win head-to-head challenges.",
+          "href": "/mechanics/skate-tree-challenges",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "1",
+              "detail": "Scout the spot first and note which surfaces preserve speed"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "2",
+              "detail": "Open with simple tricks to buy a wider input window early in the chain"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "3",
+              "detail": "Bank speed on descents, then spend it on the gap that scores biggest"
+            },
+            {
+              "label": "4",
+              "detail": "Exit grinds just before the surface ends to bank the multiplier cleanly"
+            },
+            {
+              "label": "5",
+              "detail": "Keep moving, because combo value decays while you stand still"
+            },
+            {
+              "label": "6",
+              "detail": "Save your highest-value line for the final attempt to close the gap"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Skate Tree Progression Guide",
+          "description": "See which skill tree branches to fund first, how XP really accrues, and the unlock order that avoids a wasted early build.",
+          "href": "/mechanics/skate-tree-progression",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Core stats: balance, speed, pop, and stamina lift every trick you already know"
+            },
+            {
+              "label": "A",
+              "detail": "Flatground branch: ollies, kickflips, and shove-its, your scoring base"
+            },
+            {
+              "label": "B",
+              "detail": "Grind branch: 50-50s and boardslides, the highest-scoring lines"
+            },
+            {
+              "label": "C",
+              "detail": "Grab and air branch: ramps and spins once combos are consistent"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Skate Tree Updates & News",
+          "description": "Keep up with patches, new features, balance changes, and announcements from the developers so returning players never miss a shift.",
+          "href": "/community/skate-tree-updates",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Patches",
+              "detail": "New builds and fixes that can change menus, spawns, and timing"
+            },
+            {
+              "label": "New Gear",
+              "detail": "Fresh decks, wheels, and cosmetics added to the shop and events"
+            },
+            {
+              "label": "Balance",
+              "detail": "Tweaks to trick values, skill nodes, and progression pacing"
+            },
+            {
+              "label": "Events",
+              "detail": "Limited-time modes and rewards with their own drop windows"
+            },
+            {
+              "label": "Codes",
+              "detail": "New promo strings, usually announced before they expire"
+            },
+            {
+              "label": "Meta",
+              "detail": "Community-discovered shifts in the strongest trick lines"
             }
           ]
         }
@@ -308,23 +420,23 @@
       "items": [
         {
           "question": "What is Skate Tree?",
-          "answer": "Skate Tree is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Skate Tree is a Roblox skateboarding game built around momentum on a towering, branching tree. You push, carve, and launch through the canopy, landing flips, grinds, and manuals to score. There are no races or classes to pick; your progress comes from a branching skill tree that unlocks new tricks, stats, and map areas."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "Is Skate Tree free to play?",
+          "answer": "Yes. Skate Tree is free to play on Roblox, and codes hand out free currency, cosmetics, and boosts without any purchase. Cosmetics are purely visual, so nothing behind a code changes how your board handles."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "How do I get better at Skate Tree tricks?",
+          "answer": "Treat momentum as currency. Bank speed on descents, straighten out before you trick, and add one input at a time until each move is boring. Exit Skate Tree grinds just before the surface ends, and keep moving so your combo does not decay."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Where can I find working Skate Tree codes?",
+          "answer": "The newest Skate Tree codes usually appear first on the official game page, the developer Discord, and in-game news pop-ups. Community wikis are useful archives but lag on expiry, so redeem a code the same day you find it."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Which Skate Tree skill tree branch should I upgrade first?",
+          "answer": "In Skate Tree, fund core stats before any trick branch, then go deep into flatground tricks because they anchor most combos. Add the grind branch next, and leave grab and air plus cosmetic nodes until your lines are consistent."
         }
       ]
     },
