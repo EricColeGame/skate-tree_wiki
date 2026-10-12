@@ -9,7 +9,14 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "controls": "Controls",
+    "items": "Items",
+    "maps": "Maps",
+    "codes": "Codes",
+    "community": "Community"
   },
   "home": {
     "meta": {
@@ -447,7 +454,34 @@
       "secondary": "Play on Roblox"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Skate Tree Guides",
+    "overviewDescription": "Step-by-step Skate Tree guides covering the basics, controls, and tips that help new riders get rolling fast."
+  },
+  "mechanics": {
+    "overviewTitle": "Skate Tree Mechanics",
+    "overviewDescription": "Learn how Skate Tree gameplay, tricks, skills, and progression systems fit together."
+  },
+  "controls": {
+    "overviewTitle": "Skate Tree Controls",
+    "overviewDescription": "Full Skate Tree controls and keybinds for movement and tricks on every platform."
+  },
+  "items": {
+    "overviewTitle": "Skate Tree Items",
+    "overviewDescription": "Browse Skate Tree skateboards, decks, wheels, cosmetics, and customization options."
+  },
+  "maps": {
+    "overviewTitle": "Skate Tree Maps",
+    "overviewDescription": "Explore every Skate Tree map, skate park, location, and hidden secret."
+  },
+  "codes": {
+    "overviewTitle": "Skate Tree Codes",
+    "overviewDescription": "Working Skate Tree codes plus how to redeem them before they expire."
+  },
+  "community": {
+    "overviewTitle": "Skate Tree Community",
+    "overviewDescription": "Skate Tree Reddit, updates, release date, trailer, and YouTube highlights from the community."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -478,9 +512,9 @@
     "officialYoutube": "Official YouTube",
     "vvBuilder": "Skate Tree Builder (Trick Planner)",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Tricks Guide",
-    "bossGuides": "Map & Spots",
-    "buildGuide": "Progression Guide",
+    "mechanicsGuide": "Mechanics & Tricks",
+    "mapsGuide": "Maps & Spots",
+    "controlsGuide": "Controls Guide",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }
